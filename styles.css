@@ -1,0 +1,24 @@
+body {
+    background-color: #f8f9fa;
+}
+
+h1 {
+    color: #343a40;
+}
+
+#pokemonData, #pokemonDetails {
+    margin-top: 20px;
+}
+
+.pokemon-card {
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 10px 0;
+    background-color: #ffffff;
+    box-shadow: 0 0 10px rgba(255, 0, 234, 0.1);
+}
+
+.pokemon-card img {
+    max-width: 100px;
+}
